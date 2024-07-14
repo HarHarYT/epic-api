@@ -1,1 +1,1 @@
-# fortnite-api-interactive-scripts
+# fortnite api python scripts

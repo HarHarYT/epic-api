@@ -1,4 +1,4 @@
-# Fortnite API Python Scripts 🎮🐍
+# Fortnite API Python Scripts 🎮
 
 These Python scripts interact with the Fortnite API. Please note the following:
 
